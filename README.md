@@ -60,7 +60,7 @@ Here’s what I wield to create my world:
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) <!-- Custom color -->
 
 ## Connect With Me
-- **GitHub**: [Vais008](https://github.com/vais008)
+- **GitHub**: [Vais008](https://github.com/Fullstack-Vaishnavi)
 - **Email**: 
 
 ## Fun Fact
