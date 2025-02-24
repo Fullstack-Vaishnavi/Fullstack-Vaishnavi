@@ -60,9 +60,8 @@ Here’s what I wield to create my world:
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) <!-- Custom color -->
 
 ## Connect With Me
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com (optional)
-- **Twitter**: @your-twitter (optional)
+- **GitHub**: [Vais008](https://github.com/vais008)
+- **Email**: 
 
 ## Fun Fact
 I code to the beat of my own playlist—think of it as my personal soundtrack to building worlds! 🎶
