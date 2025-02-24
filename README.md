@@ -1,4 +1,4 @@
-# Hey, I’m [Vaishnavi Gaikwad] 👋
+# Hey, I’m Vaishnavi Gaikwad 👋
 
 I’m a 17-year-old dreamer and coder, building my own personal world one line of code at a time. I love turning ideas into reality with tech—whether it’s crafting sleek UIs, tinkering with backend logic, or experimenting with 3D graphics. My journey’s all about exploration, creativity, and a sprinkle of chaos. Welcome to my digital universe!
 
