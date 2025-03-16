@@ -4,16 +4,16 @@ I’m a 17-year-old dreamer and coder, building my own personal world one line o
 
 ## What I’m Up To
 - Learning and mastering new tools to shape my ideas.
-- Building projects that mix tech with a bit of magic.
+- Building projects that mix tech with a bit of magic—like my latest creation, [VidyaFlow](https://vidyaflow.vercel.app)!
 - Sharing my adventures as I grow in this wild world of code.
 
 ## My Projects ✨
-### VidyaFlow
-- A sleek, modern platform designed to streamline workflows and ignite creativity. Built with the latest tools like React 19, Next.js 15, and TypeScript, it features seamless authentication with Clerk, a robust backend with tRPC and Drizzle ORM, and a serverless database with Neon. [Check it out live here!](https://vidyaflow.vercel.app/)
-Tech Stack: React 19, Next.js 15, Mux, Uploadthing, Drizzle, Bun, Upstash, Workflow, tRPC, Svix, Clerk, Neon, TypeScript.
+- **[VidyaFlow](https://vidyaflow.vercel.app)**  
+  A sleek, modern platform designed to streamline workflows and ignite creativity. Built with the latest tools, it features seamless authentication, a robust backend, and a serverless database.   
+  **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-00C4B4?style=flat) ![Neon](https://img.shields.io/badge/Neon-00FFAA?style=flat&logo=neon&logoColor=black) ![Mux](https://img.shields.io/badge/Mux-FF00FF?style=flat&logo=mux&logoColor=white) ![Uploadthing](https://img.shields.io/badge/Uploadthing-000000?style=flat) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-FF6347?style=flat&logo=upstash&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-FF6F61?style=flat) ![Svix](https://img.shields.io/badge/Svix-FF9800?style=flat&logo=svix&logoColor=white)
 
-## Next Up: Mystery Project
-Something exciting is brewing! A new project is on the horizon—expect another dose of tech and magic soon. Stay tuned!
+- **Next Up: Mystery Project**  
+  Something exciting is brewing! A new project is on the horizon—expect another dose of tech and magic soon. Stay tuned!
 
 ## My Toolbox 🛠️
 
@@ -26,7 +26,7 @@ Here’s what I wield to create my world:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-000000?style=flat&logo=htmx&logoColor=white) <!-- No official logo, using text -->
+![HTMX](https://img.shields.io/badge/HTMX-000000?style=flat&logo=htmx&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -35,19 +35,20 @@ Here’s what I wield to create my world:
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![UX Design Principles](https://img.shields.io/badge/UX_Design-FF6F61?style=flat) <!-- No logo, text-only -->
+![UX Design Principles](https://img.shields.io/badge/UX_Design-FF6F61?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Sass/SCSS](https://img.shields.io/badge/Sass-FF69B4?style=flat&logo=sass&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=flat) <!-- No logo, text-only -->
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-2196F3?style=flat) <!-- No logo -->
-![Browser Developer Tools](https://img.shields.io/badge/Browser_Dev_Tools-FF9800?style=flat) <!-- No logo -->
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=flat)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-2196F3?style=flat)
+![Browser Developer Tools](https://img.shields.io/badge/Browser_Dev_Tools-FF9800?style=flat)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
@@ -59,17 +60,21 @@ Here’s what I wield to create my world:
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-6B7280?style=flat) <!-- No logo, text-only -->
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-6B7280?style=flat)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00FFAA?style=flat&logo=neon&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) <!-- Custom color -->
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-00C4B4?style=flat)
+![Upstash](https://img.shields.io/badge/Upstash-FF6347?style=flat&logo=upstash&logoColor=white)
+![Mux](https://img.shields.io/badge/Mux-FF00FF?style=flat&logo=mux&logoColor=white)
 
 ## Connect With Me
 - **GitHub**: [Fullstack-Vaishnavi](https://github.com/Fullstack-Vaishnavi)
-- **Email**: 
 
 ## Fun Fact
 I code to the beat of my own playlist—think of it as my personal soundtrack to building worlds! 🎶
