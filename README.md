@@ -7,12 +7,12 @@ I’m a 17-year-old dreamer and coder, building my own personal world one line o
 - Building projects that mix tech with a bit of magic.
 - Sharing my adventures as I grow in this wild world of code.
 
-  My Projects ✨
-VidyaFlow
+## My Projects ✨
+### VidyaFlow
 - A sleek, modern platform designed to streamline workflows and ignite creativity. Built with the latest tools like React 19, Next.js 15, and TypeScript, it features seamless authentication with Clerk, a robust backend with tRPC and Drizzle ORM, and a serverless database with Neon. [Check it out live here!](https://vidyaflow.vercel.app/)
 Tech Stack: React 19, Next.js 15, Mux, Uploadthing, Drizzle, Bun, Upstash, Workflow, tRPC, Svix, Clerk, Neon, TypeScript.
 
-# Next Up: Mystery Project
+## Next Up: Mystery Project
 Something exciting is brewing! A new project is on the horizon—expect another dose of tech and magic soon. Stay tuned!
 
 ## My Toolbox 🛠️
