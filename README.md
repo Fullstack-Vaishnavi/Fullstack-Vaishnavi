@@ -4,10 +4,14 @@ I’m a 17-year-old dreamer and coder, building my own personal world one line o
 
 ## What I’m Up To
 - Learning and mastering new tools to shape my ideas.
-- Building projects that mix tech with a bit of magic—like my latest creation, [VidyaFlow](https://vidyaflow.vercel.app)!
+- Building projects that mix tech with a bit of magic—like my latest creation, [FindMyInvoice](https://findmyinvoice.vercel.app)!
 - Sharing my adventures as I grow in this wild world of code.
 
 ## My Projects ✨
+- **[FindMyInvoice](https://findmyinvoice.vercel.app)**  
+  A powerful app to manage invoices with ease, featuring secure payments and AI-powered functionality. Built with a modern stack for efficiency and scale.  
+  **Tech Stack**: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-000000?style=flat) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FF6F61?style=flat)
+
 - **[VidyaFlow](https://vidyaflow.vercel.app)**  
   A sleek, modern platform designed to streamline workflows and ignite creativity. Built with the latest tools, it features seamless authentication, a robust backend, and a serverless database.   
   **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-00C4B4?style=flat) ![Neon](https://img.shields.io/badge/Neon-00FFAA?style=flat&logo=neon&logoColor=black) ![Mux](https://img.shields.io/badge/Mux-FF00FF?style=flat&logo=mux&logoColor=white) ![Uploadthing](https://img.shields.io/badge/Uploadthing-000000?style=flat) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-FF6347?style=flat&logo=upstash&logoColor=white) ![Workflow](https://img.shields.io/badge/Workflow-FF6F61?style=flat) ![Svix](https://img.shields.io/badge/Svix-FF9800?style=flat&logo=svix&logoColor=white)
