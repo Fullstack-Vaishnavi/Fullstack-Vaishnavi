@@ -76,6 +76,12 @@ Here’s what I wield to create my world:
 ![Drizzle](https://img.shields.io/badge/Drizzle-00C4B4?style=flat)
 ![Upstash](https://img.shields.io/badge/Upstash-FF6347?style=flat&logo=upstash&logoColor=white)
 ![Mux](https://img.shields.io/badge/Mux-FF00FF?style=flat&logo=mux&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-000000?style=flat) 
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude-FF6F61?style=flat)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat)
+
 
 ## Connect With Me
 - **GitHub**: [Fullstack-Vaishnavi](https://github.com/Fullstack-Vaishnavi)
