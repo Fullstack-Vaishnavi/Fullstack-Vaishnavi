@@ -1,21 +1,22 @@
 # Vaishnavi Gaikwad
 
-17-year-old tech innovator crafting impactful solutions with modern tools.
+17-year-old tech innovator building impactful solutions with modern technologies.
 
 ## Recent Projects
-- **FindMyInvoice** ([findmyinvoice.vercel.app](https://findmyinvoice.vercel.app))  
-  Smart invoice management app with secure payments and AI features.  
-  **Stack**: TypeScript, Next.js, Inngest, Clerk, Convex, Stripe, OpenAI, Claude
+- **[FindMyInvoice](https://findmyinvoice.vercel.app)**  
+  Invoice management app with secure payments and AI-driven features.  
+  **Tech**: TypeScript, Next.js, Inngest, Clerk, Convex, Stripe, OpenAI, Claude
 
-- **VidyaFlow** ([vidyaflow.vercel.app](https://vidyaflow.vercel.app))  
-  Creative workflow platform with seamless auth and serverless design.  
-  **Stack**: React, Next.js, TypeScript, Clerk, tRPC, Drizzle, Neon, Mux, Uploadthing, Bun, Upstash, Workflow, Svix
+- **[VidyaFlow](https://vidyaflow.vercel.app)**  
+  Creative workflow platform with seamless authentication and serverless architecture.  
+  **Tech**: React, Next.js, TypeScript, Clerk, tRPC, Drizzle, Neon, Mux, Uploadthing, Bun, Upstash, Svix
 
 ## Core Skills
-- Languages: TypeScript, JavaScript, Python, Go, Rust  
-- Frameworks: React, Next.js, Express, Django  
-- Databases: MongoDB, MySQL, Neon  
-- Services: Stripe, OpenAI, Clerk, tRPC, Convex  
-
+- **Languages**: TypeScript, JavaScript, Python
+- **Library**: React, Three.js, tRPC, Drizzle, Convex
+- **Frameworks**: Next.js, Express, Django  
+- **Databases**: MongoDB, MySQL, Neon
+- **Services**: Stripe, OpenAI, Claude, Clerk, Inngest, Mux, Upstash, Svix, Bun
+  
 ## Contact
 - **GitHub**: [Fullstack-Vaishnavi](https://github.com/Fullstack-Vaishnavi)
