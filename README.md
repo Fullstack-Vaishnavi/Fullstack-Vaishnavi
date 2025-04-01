@@ -3,6 +3,10 @@
 17-year-old tech innovator building impactful solutions with modern technologies.
 
 ## Recent Projects
+- **[TshirtOrganizer](https://tshirtorganizer.vercel.app/)**  
+  3D t-shirt customization tool with AI design generation.  
+  **Tech**: ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-4E5BFF?logo=openai&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+
 - **[FindMyInvoice](https://findmyinvoice.vercel.app)**  
   Invoice management app with secure payments and AI-driven features.  
   **Tech**: ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-2D2D2D?logo=ingest&logoColor=F9C52A) ![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=ffffff) ![Convex](https://img.shields.io/badge/Convex-1A1A1A?logo=convex&logoColor=F2F2F2) ![Stripe](https://img.shields.io/badge/Stripe-008C53?logo=stripe&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-4E5BFF?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-000000?logo=claude&logoColor=00FF00)
