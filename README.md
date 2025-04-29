@@ -3,6 +3,10 @@
 17-year-old tech innovator building impactful solutions with modern technologies.
 
 ## Recent Projects
+- **[VaishnaviG 3D Portfolio](https://vaishnavig-3d-portfolio.vercel.app)**  
+  Interactive 3D personal portfolio website.  
+  **Tech**:    ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)    ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)    ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)    ![EmailJS](https://img.shields.io/badge/EmailJS-2B72EE?logo=email&logoColor=white)    ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF008C?logo=framer&logoColor=white)
+
 - **[VaishnaviG Portfolio](https://vaishnavigportfolio.vercel.app/)**  
   Interactive 3D personal portfolio website.  
   **Tech**:    ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)    ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)    ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)    ![EmailJS](https://img.shields.io/badge/EmailJS-2B72EE?logo=email&logoColor=white)    ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF008C?logo=framer&logoColor=white) ![Vertical Component](https://img.shields.io/badge/Vertical--Component-CB38FF?style=flat&logo=react&logoColor=white)
