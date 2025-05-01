@@ -3,6 +3,11 @@
 17-year-old tech innovator building impactful solutions with modern technologies.
 
 ## Recent Projects
+- **[Tasklin](https://tasklin-pearl.vercel.app)**  
+  A Notion-like productivity app with AI features, real-time collaboration, and live blocks.  
+  **Tech**:  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)    ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)   ![Hono](https://img.shields.io/badge/Hono-000000?logo=cloudflarepages&logoColor=white)   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)   ![Shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?logo=vercel&logoColor=white)   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  ![Yjs](https://img.shields.io/badge/Yjs-000000?logo=databricks&logoColor=white)   ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF008C?logo=framer&logoColor=white)  ![Liveblocks](https://img.shields.io/badge/Liveblocks-000000?logo=liveblocks&logoColor=white)
+
+
 - **[VaishnaviG 3D Portfolio](https://vaishnavig-3d-portfolio.vercel.app)**  
   Interactive 3D personal portfolio website.  
   **Tech**:    ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)    ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)    ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)    ![EmailJS](https://img.shields.io/badge/EmailJS-2B72EE?logo=email&logoColor=white)    ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF008C?logo=framer&logoColor=white)
