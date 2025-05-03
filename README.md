@@ -7,6 +7,10 @@
 I'm Working On IT🙈
 
 ## Recent Projects
+- **[Project MarketPlace](https://project-sell-ten.vercel.app/index.html)**  
+  A marketplace for buying and downloading projects with payment integration and admin management.  
+  **Tech**: ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Razorpay](https://img.shields.io/badge/Razorpay-0066FF?logo=razorpay&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-323330?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
 - **[Tasklin](https://tasklin-pearl.vercel.app)**  
   A Notion-like productivity app with AI features, real-time collaboration, and live blocks.  
   **Tech**:  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)    ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)   ![Hono](https://img.shields.io/badge/Hono-000000?logo=cloudflarepages&logoColor=white)   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)   ![Shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?logo=vercel&logoColor=white)   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  ![Yjs](https://img.shields.io/badge/Yjs-000000?logo=databricks&logoColor=white)   ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF008C?logo=framer&logoColor=white)  ![Liveblocks](https://img.shields.io/badge/Liveblocks-000000?logo=liveblocks&logoColor=white)
