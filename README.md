@@ -7,6 +7,10 @@
 I'm Working On IT🙈
 
 ## Recent Projects
+- **[TicketNest](https://ticketnest-nine.vercel.app)**  
+  A specialized platform for concert ticket sales and marketplace transactions that enables users to list and sell their tickets in a secure and streamlined environment.  
+  **Tech**: ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![shadcn UI](https://img.shields.io/badge/shadcn_UI-000000?logo=shadcnui&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF6B6B?logo=convex&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3068B7?logo=zod&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
 - **[Project MarketPlace](https://project-sell-ten.vercel.app/index.html)**  
   A marketplace for buying and downloading projects with payment integration and admin management.  
   **Tech**: ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Razorpay](https://img.shields.io/badge/Razorpay-0066FF?logo=razorpay&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-323330?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
