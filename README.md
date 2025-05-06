@@ -1,10 +1,13 @@
 # Vaishnavi Gaikwad
 
-17-year-old tech innovator building impactful solutions with modern technologies.
+🚀 Passionate full-stack developer (17 y/o) building impactful products using modern web technologies.
 
-## Upcoming Projects....
+## 🧠 Upcoming Projects
+Currently brewing exciting ideas — stay tuned!
 
-I'm Working On IT🙈
+## 💼 Major Projects
+## 🎨 Creative UI/3D Projects
+## 📚 Academic / Utility Tools
 
 ## Recent Projects
 - **[TicketNest](https://ticketnest-nine.vercel.app)**  
