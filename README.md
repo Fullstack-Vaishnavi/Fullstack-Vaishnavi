@@ -6,6 +6,11 @@
 Currently brewing exciting ideas — stay tuned!
 
 ## Recent Projects
+- **[ConnectZen](https://connectzen.vercel.app/)**  
+  A Zoom-like real-time video conferencing app that enables seamless meetings, secure authentication, and interactive scheduling.  
+  **Tech**: ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?logo=next.js&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![shadcn UI](https://img.shields.io/badge/shadcn_UI-000000?logo=shadcnui&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-3C3C3C?logo=clerk&logoColor=white) ![Datepicker](https://img.shields.io/badge/Datepicker-FFB400?logo=calendar&logoColor=black) ![Stream](https://img.shields.io/badge/Stream-0061F2?logo=stream&logoColor=white)
+
+
 - **[TicketNest](https://ticketnest-nine.vercel.app)**  
   A specialized platform for concert ticket sales and marketplace transactions that enables users to list and sell their tickets in a secure and streamlined environment.  
   **Tech**: ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![shadcn UI](https://img.shields.io/badge/shadcn_UI-000000?logo=shadcnui&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF6B6B?logo=convex&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3068B7?logo=zod&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
