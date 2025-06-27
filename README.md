@@ -6,6 +6,12 @@
 Currently brewing exciting ideas — stay tuned!
 
 ## Recent Projects
+
+- **[Mojito](https://mojito-three.vercel.app/)**  
+A vibrant and smooth cocktail drink shop web app with modern animations and clean design. Built to showcase a delightful browsing experience using GSAP, Tailwind v4, and TypeScript.      
+  **Tech**: ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+
+
 - **[ConnectZen](https://connectzen.vercel.app/)**  
   A Zoom-like real-time video conferencing app that enables seamless meetings, secure authentication, and interactive scheduling.  
   **Tech**: ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?logo=next.js&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![shadcn UI](https://img.shields.io/badge/shadcn_UI-000000?logo=shadcnui&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-3C3C3C?logo=clerk&logoColor=white) ![Datepicker](https://img.shields.io/badge/Datepicker-FFB400?logo=calendar&logoColor=black) ![Stream](https://img.shields.io/badge/Stream-0061F2?logo=stream&logoColor=white)
