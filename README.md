@@ -7,6 +7,12 @@ Currently brewing exciting ideas — stay tuned!
 
 ## Recent Projects
 
+
+- **[Patreon Clone](https://patreon-omega.vercel.app/)**  
+A creator subscription platform where users can support creators with paid tiers, built with a modern fullstack stack using React, Sanity, and Stripe.  
+  **Tech**: [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Sanity](https://img.shields.io/badge/Sanity-EF3A6B?logo=sanity&logoColor=white)](https://www.sanity.io) [![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)](https://stripe.com) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=radixui&logoColor=white)](https://ui.shadcn.com) [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com)
+
+
 - **[Mojito](https://mojito-three.vercel.app/)**  
 A vibrant and smooth cocktail drink shop web app with modern animations and clean design. Built to showcase a delightful browsing experience using GSAP, Tailwind v4, and TypeScript.      
   **Tech**: ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
