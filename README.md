@@ -1,4 +1,4 @@
-# Vaishnavi Gaikwad 
+# Vaishnavi Gaikwad
 
 🚀 Passionate full-stack developer (17 y/o) building impactful products using modern web technologies.
 
