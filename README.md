@@ -1,6 +1,6 @@
 # Vaishnavi Gaikwad
  
-🚀 Passionate full-stack developer (17 y/o) building impactful products using modern web technologies.
+🚀 Passionate full-stack developer (17 y/o) building impactful products using modern web technologies. 
  
 ## 🎒 Buy Projects at lowest cost 
 - **[Buy Projects](https://project-sell-production.up.railway.app/)**     
