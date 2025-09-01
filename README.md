@@ -3,7 +3,15 @@
 🚀 Passionate full-stack developer (17 y/o) building impactful products using modern web technologies. 
  
 ## 🎒 Buy Projects at lowest cost 
-- **[Buy Projects](https://project-sell-production.up.railway.app/)**     
+- **[Buy Projects](https://project-sell-production.up.railway.app/)**
+
+## 🏪  Projects in Market  
+
+- **[The Tomato Slice](https://thetomatoslice.app/)**  
+A modern restaurant management dashboard to manage orders, revenue, ratings, delivery settings, opening hours, reservations, and payments in real time. Includes a 7-day free trial with seamless upgrade; remaining trial days roll over into the annual plan.
+
+  **Tech**: [![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com) [![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com) ![Razorpay](https://img.shields.io/badge/Razorpay-0066FF?logo=razorpay&logoColor=white) 
+ 
  
 ## 🧠 Upcoming Projects 
 Currently brewing exciting ideas — stay tuned!
