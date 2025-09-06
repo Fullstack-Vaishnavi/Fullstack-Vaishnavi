@@ -7,29 +7,31 @@
 
 ---
 
-## 🏆 Flagship Product — The Tomato Slice  
+## 💼 Commercial Projects (In Use / For Sale)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Production-10%2B%20Restaurants-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-Restaurant%20Management-orange?style=for-the-badge" />
-</p>
-
-**The Tomato Slice** is a **restaurant operations platform** already powering **10+ restaurants in production**.  
-It manages **orders, reservations, digital payments, revenue analytics, customer flow, and real-time dashboards**.  
-
-- 🚀 **Impact:** Reduced operational overhead by ~40%  
-- 💳 **Integrated:** Razorpay + Firebase  
-- 🛠 **Stack:** Next.js 15 · TypeScript · Firebase · Tailwind · Clerk  
-- 🌍 **Real-World Usage:** 10+ Restaurants  
+### 🍅 The Tomato Slice  
+A **restaurant management platform** already powering **10+ restaurants in production**.  
+- 🚀 Real-world adoption: Used daily in market  
+- 🛠 Stack: Next.js · TypeScript · Firebase · Tailwind · Razorpay · Clerk  
+- 💳 Features: Orders · Reservations · Digital Payments · Revenue Analytics  
+- 🌍 **Impact:** Reduced operational overhead by ~40% and streamlined payments  
 
 ---
 
-## 🌟 Featured Projects  
+### 🛍️ Project Marketplace  
+A **platform to buy & sell projects online** with integrated payments.  
+- 💳 Payments via Razorpay  
+- 🔒 Secure File Delivery  
+- 🛠 Stack: Firebase · Node.js · Express · Vercel  
+- 📦 [View on GitHub](https://github.com/Fullstack-Vaishnavi/project-marketplace)
 
-🔹 [**Tasklin**](https://tasklin-pearl.vercel.app) – Notion-like task manager (React + Firebase + Tailwind)  
-🔹 [**ConnectZen**](https://github.com/Fullstack-Vaishnavi/ConnectZen) – A Zoom-like web app (WebRTC + Node.js)  
-🔹 [**Project Marketplace**](https://github.com/Fullstack-Vaishnavi/project-marketplace) – Buy/Sell projects with payments (Firebase + Razorpay)  
-🔹 **More Projects →** [GitHub Repos](https://github.com/Fullstack-Vaishnavi?tab=repositories)  
+---
+
+## 🌟 Featured Open Source Projects  
+
+- 🔹 [**Tasklin**](https://tasklin-pearl.vercel.app) – Notion-like task manager (React + Firebase + Tailwind)  
+- 🔹 [**ConnectZen**](https://github.com/Fullstack-Vaishnavi/ConnectZen) – A Zoom-like web app (WebRTC + Node.js)  
+- 🔹 **More Projects →** [See GitHub Repos](https://github.com/Fullstack-Vaishnavi?tab=repositories)  
 
 ---
 
