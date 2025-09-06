@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gaikwad</h1>
 <h3 align="center">🚀 Fullstack Developer | 📱 Mobile Developer | 🎨 UI/UX Designer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fullstack-Vaishnavi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## ✨ Typing Section  
-
+<!-- Typing Animation directly below name -->
 <p align="center">
   <a href="https://github.com/Fullstack-Vaishnavi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Building+Real+World+Products" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fullstack-Vaishnavi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
