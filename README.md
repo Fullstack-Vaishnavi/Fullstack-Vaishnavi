@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Commercial Projects (In Use / For Sale)
+## 💼 Commercial Projects (In Use)
 
 ### 🍅 The Tomato Slice  
 A **restaurant management platform** already powering **10+ restaurants in production**.  
@@ -25,12 +25,11 @@ A **restaurant management platform** already powering **10+ restaurants in produ
 
 ---
 
-### 🛍️ Project Marketplace (Project Sell)  
-A **platform to buy & sell projects online** with integrated payments.  
+### 🛍️ [Project Marketplace]([Project Sell](https://project-sell-ten.vercel.app/))  
+A **platform to buy projects online** with integrated payments.  
 - 💳 Payments via Razorpay  
 - 🔒 Secure File Delivery  
 - 🛠 Stack: Firebase · Node.js · Express · Vercel  
-- 🌐 [Live Demo](https://project-sell-ten.vercel.app/)  
 
 ---
 
