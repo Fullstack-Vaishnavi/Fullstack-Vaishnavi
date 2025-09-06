@@ -7,6 +7,16 @@
 
 ---
 
+## ✨ Typing Section  
+
+<p align="center">
+  <a href="https://github.com/Fullstack-Vaishnavi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Building+Real+World+Products" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ## 💼 Commercial Projects (In Use / For Sale)
 
 ### 🍅 The Tomato Slice  
@@ -18,20 +28,20 @@ A **restaurant management platform** already powering **10+ restaurants in produ
 
 ---
 
-### 🛍️ Project Marketplace  
+### 🛍️ Project Marketplace (Project Sell)  
 A **platform to buy & sell projects online** with integrated payments.  
 - 💳 Payments via Razorpay  
 - 🔒 Secure File Delivery  
 - 🛠 Stack: Firebase · Node.js · Express · Vercel  
-- 📦 [View on GitHub](https://github.com/Fullstack-Vaishnavi/project-marketplace)
+- 🌐 [Live Demo](https://project-sell-ten.vercel.app/)  
 
 ---
 
-## 🌟 Featured Open Source Projects  
+## 🌟 Featured Projects  
 
 - 🔹 [**Tasklin**](https://tasklin-pearl.vercel.app) – Notion-like task manager (React + Firebase + Tailwind)  
-- 🔹 [**ConnectZen**](https://github.com/Fullstack-Vaishnavi/ConnectZen) – A Zoom-like web app (WebRTC + Node.js)  
-- 🔹 **More Projects →** [See GitHub Repos](https://github.com/Fullstack-Vaishnavi?tab=repositories)  
+- 🔹 [**ConnectZen**](https://connectzen.vercel.app) – A Zoom-like app (WebRTC + Node.js)  
+- 🔹 **More Projects →** [GitHub Repos](https://github.com/Fullstack-Vaishnavi?tab=repositories) *(Private repos not visible)*  
 
 ---
 
@@ -44,18 +54,13 @@ A **platform to buy & sell projects online** with integrated payments.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=fff) 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=fff) 
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=fff) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff) 
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=fff) 
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C6CF2?style=flat-square&logo=razorpay&logoColor=fff) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff) 
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=fff) 
-![Convex](https://img.shields.io/badge/Convex-000000?style=flat-square&logo=databricks&logoColor=fff) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff) 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=fff) 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000) 
