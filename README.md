@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gaikwad</h1>   
 <h3 align="center">🚀 Fullstack Developer | 📱 Mobile Developer | 🎨 UI/UX Designer</h3>   
-
+ 
 <!-- Typing Animation directly below name -->
 <p align="center">
   <a href="https://github.com/Fullstack-Vaishnavi">
