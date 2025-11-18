@@ -16,8 +16,8 @@
 
 ## 💼 Commercial Projects (In Use)
 
-### 🍅 The Tomato Slice  
-A **restaurant management platform** already powering **10+ restaurants in production**.  
+### 🍅 **The Tomato Slice** ([The Tomato Slice](https://www.thetomatoslice.app/))  
+A **restaurant management platform**.
 - 🚀 Real-world adoption: Used daily in market  
 - 🛠 Stack: Next.js · TypeScript · Firebase · Tailwind · Razorpay · Clerk  
 - 💳 Features: Orders · Reservations · Digital Payments · Revenue Analytics  
