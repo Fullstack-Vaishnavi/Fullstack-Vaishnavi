@@ -1,4 +1,6 @@
+<head>
 <meta name="google-site-verification" content="ylhcBYLFRwkr7SF-l37tVv-dOzUUnUWx-gk6pXYA6hU" />
+</head>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Gaikwad</h1>   
 <h3 align="center">🚀 Fullstack Developer | 📱 Mobile Developer | 🎨 UI/UX Designer</h3>     
