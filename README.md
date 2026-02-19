@@ -20,15 +20,6 @@
 
 ## 💼 Commercial Projects (In Use)
 
-### 🍅 **The Tomato Slice** ([The Tomato Slice](https://www.thetomatoslice.app/))  
-A **restaurant management platform**.
-- 🚀 Real-world adoption: Used daily in market  
-- 🛠 Stack: Next.js · TypeScript · Firebase · Tailwind · Razorpay · Clerk  
-- 💳 Features: Orders · Reservations · Digital Payments · Revenue Analytics  
-- 🌍 **Impact:** Reduced operational overhead by ~40% and streamlined payments  
-
----
-
 ### 🛍️ [Project Marketplace]([Project Sell](https://project-sell-ten.vercel.app/))  
 A **platform to buy projects online** with integrated payments.  
 - 💳 Payments via Razorpay  
